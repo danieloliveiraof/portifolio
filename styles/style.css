@@ -112,6 +112,10 @@ body{
 }
 
 .rodape {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
     padding: 24px;
     color: var(--cor-primaria);
     background-color: var(--cor-tercearia);
